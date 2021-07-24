@@ -4,5 +4,7 @@
 
 
 function areAnagram(str1, str2) {
-    
+    // Get the length of both the strings.
+    let len1 = str1.length,
+    let n2 = str2.length;
 }
